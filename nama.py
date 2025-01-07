@@ -1,0 +1,2 @@
+nama = "arga"
+print (nama)

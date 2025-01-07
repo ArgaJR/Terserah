@@ -37,3 +37,6 @@ jobs:
           
       - name: tambahan
         run: date
+
+      - name: Jalankan phyton
+        run: phyton nama.py
