@@ -1,2 +1,2 @@
 nama = "arga"
-print (nama)
+print(nama)
